@@ -90,8 +90,8 @@ python "Supplier & Vendor Mgmt System Source Code - Group 1 Aini (Solution 1 BST
 
 
 ## 📺 Project Demo
-Watch our group presentation and system demo here: 
-[https://youtu.be/NgSbu7_eTZ0](https://youtu.be/NgSbu7_eTZ0)
+[![Watch the video](https://img.youtube.com/vi/NgSbu7_eTZ0/maxresdefault.jpg)](https://youtu.be/NgSbu7_eTZ0)
+**Click the image above to watch our full system walkthrough!**
 
 
 
