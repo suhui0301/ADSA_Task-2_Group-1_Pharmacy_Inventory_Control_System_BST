@@ -73,17 +73,17 @@ This repository contains three distinct independent BST-based applications/syste
 2. Open your terminal/command prompt.
 3. Navigate to the folder containing the files.
 4. Compile and run the specific module/system.
-#### For Medicine System
+#### -For Medicine System
 g++ "Meds Mgmt System Source Code - Group 1 Abby (Solution 1 BST).cpp" -o meds_system
 ./meds_system
-#### For Stock System
+#### -For Stock System
 g++ "Pharmacy Stock System Source Code - Group 1 Winnie (Solution 1 BST).cpp" -o stock_system
 ./stock_system
 
 ### Running the Python File
 1. Ensure Python is installed.
 2. Run:
-#### For Supplier System
+#### -For Supplier System
 python "Supplier & Vendor Mgmt System Source Code - Group 1 Aini (Solution 1 BST).py"
 
 ---
