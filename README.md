@@ -60,7 +60,7 @@ This repository contains three distinct independent BST-based applications/syste
 * **Data Structure:** Binary Search Tree (BST)
     * Used for all Insert, Search, and Delete operations to maintain sorted data.
     * Efficient for handling unique IDs (Batch ID, Supplier ID, Medicine ID).
-* **Libraries:** * C++: `chrono` (Time tracking), `iostream`, `iomanip`
+* **Libraries:** C++: `chrono` (Time tracking), `iostream`, `iomanip`
     * Python: `numpy`, `pandas`, `time`, `os`
 
 ---
