@@ -55,8 +55,8 @@ This repository contains three distinct independent BST-based applications/syste
 ---
 
 
-## 📋 Project StructUre
-'''text
+## 📋 Project Structure
+
 pharmacy-inventory-control-bst-system/
 │
 ├── 📄 README.md                        # Updated with new links below
