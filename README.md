@@ -23,7 +23,7 @@ All systems are built using the **Binary Search Tree (BST)** data structure to e
 This repository contains three distinct independent BST-based applications/systems:
 
 ### 1. Medicine Management System (Batch Tracking)
-**File:** `Meds Mgmt System Source Code - Group 1 Abby (Solution 1 BST).cpp`
+**File Location:** `src/Meds Mgmt System Source Code - Group 1 Abby (Solution 1 BST).cpp`
 * **Language:** C++
 * **Description:** Manages medicine batches including expiry dates and physical shelf locations.
 * **Key Features:**
@@ -33,7 +33,7 @@ This repository contains three distinct independent BST-based applications/syste
     * **Performance Tracking:** Displays execution time (in nanoseconds) for operations.
 
 ### 2. Pharmacy Stock System (Inventory)
-**File:** `Pharmacy Stock System Source Code - Group 1 Winnie (Solution 1 BST).cpp`
+**File Location:** `src/Pharmacy Stock System Source Code - Group 1 Winnie (Solution 1 BST).cpp`
 * **Language:** C++
 * **Description:** A core inventory system for tracking stock levels and pricing.
 * **Key Features:**
@@ -43,7 +43,7 @@ This repository contains three distinct independent BST-based applications/syste
     * Robust input validation for prices and quantities.
       
 ### 3. Supplier & Vendor Management System
-**File:** `Supplier & Vendor Mgmt System Source Code - Group 1 Aini (Solution 1 BST).py`
+**File Location:** `srcSupplier & Vendor Mgmt System Source Code - Group 1 Aini (Solution 1 BST).py`
 * **Language:** Python
 * **Description:** A system to manage pharmacy suppliers and their ratings.
 * **Key Features:**
@@ -82,7 +82,8 @@ g++ "Pharmacy Stock System Source Code - Group 1 Winnie (Solution 1 BST).cpp" -o
 
 ### Running the Python File
 1. Ensure Python is installed.
-2. Run:
+2. Navigate to the folder containing the file.
+3. Run:
 #### -For Supplier System
 python "Supplier & Vendor Mgmt System Source Code - Group 1 Aini (Solution 1 BST).py"
 
