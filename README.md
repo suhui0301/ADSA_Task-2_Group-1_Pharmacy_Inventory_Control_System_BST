@@ -9,7 +9,7 @@ All systems are built using the **Binary Search Tree (BST)** data structure to e
 
 ## 👥 Group Members & Roles
 
-| Name | Matric ID | Assigned System (BST-Based) |
+| Name | Matric No. | Assigned System (BST-Based) |
 | :--- | :--- | :--- |
 | **Lau Su Hui (Abby)** | MEC245045 | Medicine Management System (in C++)|
 | **Nurul ‘Aini Binti Hamdan** | MEC245046 | Supplier & Vendor Mgmt System (in Python)|
